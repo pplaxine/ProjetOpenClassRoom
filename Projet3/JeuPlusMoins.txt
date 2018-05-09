@@ -1,0 +1,50 @@
+
+
+Cas challenger 1) 
+
+Generer une combinaison aléatoire à x chiffre.
+
+demander à l'utilisateur d'entrer une combinaison à x chiffres.
+
+comparer la combinaison aléatoire à la combinaison de l'utilisateur.
+
+indiquer à l'utilisateur, pour chaque chiffre, si celui-ci est +/-/= à chaque chiffre correspondant de la combinaison aléatoire.   
+
+redemander à l'utilisateur d'entrer une combinaison.
+
+donner le nombre d'essai lorsque l'utilisateur trouve la combinaison. 
+
+fin
+
+
+
+Cas défenseur 2) 
+
+demander à l'utilisateur d'entrer une combinaison aléatoire à x chiffre. 
+
+montrer la combinaison. 
+
+demander à l'ordinateur de generer une combinaison aléatoire à x chiffre. 
+
+comparer la combinaison de l'utilisateur à la combinaison de l'ordinateur.
+
+indiquer à l'ordinteur que si chiffre = la valeur est gardée, si + redonner un chiffre aléatoire compris en chiffre donné et reste , si - redonner un chiffre aléatoire compris en chiffre donné et reste.
+
+demander à l'ordinateur de rejouer. 
+
+donner le nombre d'essai à l'utilisateur lorsque l'ordinateur trouve la combinaison.
+
+fin
+
+
+cas duel 3)  
+
+demander à l'utilisateur d'entrer une combinaison aléatoire à x chiffre.  
+
+Generer une combinaison aléatoire à x chiffre.
+
+comparer la combinaison aléatoire à la combinaison de l'utilisateur.
+
+demander à l'ordinateur de generer une combinaison aléatoire à x chiffre.
+
+...
